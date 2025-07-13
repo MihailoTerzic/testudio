@@ -1,5 +1,5 @@
 import React from 'react';
-import { projectList } from '../lib/projectlist';
+import { projectList } from '../projectlist';
 import Image from 'next/image';
 import Link from 'next/link';
 
