@@ -32,7 +32,7 @@ export default function Home() {
       <div className="flex items-center justify-center py-20 text-center px-4">
         <div className='max-w-3xl mx-auto px-6'>
           <p className="text-xl md:text-2xl text-gray-400">
-            If you're looking for an in-depth audit of your existing website or need guidance on a new project, we are here to help. Get in touch to discuss how we can improve your online presence.
+            If you are looking for an in-depth audit of your existing website or need guidance on a new project, we are here to help. Get in touch to discuss how we can improve your online presence.
            </p>
            
         </div>
