@@ -1,5 +1,10 @@
 export const projectList = [
   {
+    title: 'Cafe Template',
+    image: '/images/cafetemplate.PNG',
+    link: 'https://cafetemplate.vercel.app/',
+  },
+  {
     title: 'Original Badman',
     image: '/images/originalbadman.PNG',
     link: 'https://originalbadman.vercel.app/',
